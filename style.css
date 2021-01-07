@@ -1,0 +1,25 @@
+th {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  font-size: larger;
+}
+
+div {
+  width: 306px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+  display: none;
+}
